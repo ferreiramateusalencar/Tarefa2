@@ -18,3 +18,4 @@ float calcularImposto(int faixa, float salarioBruto) {
     }
     return salarioBruto * aliquota;
 }
+.
